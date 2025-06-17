@@ -1,31 +1,36 @@
 <h1 align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Analista+de+Cibersegurança!;Bem-vindo+ao+meu+GitHub!;Explorando+Segurança%2C+Scripts+e+Tecnologia+%F0%9F%92%BB"](https://readme-typing-svg.herokuapp.com/demo/?font=iceland&color=00FF00&lines=Welcome+to+my+profile!;I'm+a+Cybersecurity+Analyst) alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=iceland&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+profile!;I'm+a+Cybersecurity+Analyst" alt="Typing SVG" />
+  </a>
 </h1>
 
 ---
 
 ![Cybersecurity GIF](https://media.giphy.com/media/Rv5f4x0O1Nc0/giphy.gif)
 
-🔐 **Sobre mim**  
-Sou Analista de Cibersegurança, com foco em:
-- 🛡️ Análise e mitigação de vulnerabilidades
-- 🔍 Monitoramento e resposta a incidentes
-- 🧠 Aprendizado contínuo em segurança ofensiva e defensiva
+## 🛡️ About Me
 
-📫 **Contato**  
-[LinkedIn](https://www.linkedin.com) | [Email](mailto:seu-email@exemplo.com)
+I'm a **Cybersecurity Analyst** passionate about:
 
----
+- 🛡️ Vulnerability assessment and threat mitigation  
+- 📊 Security monitoring and incident response  
+- 🧠 Continuous learning in offensive and defensive security  
 
-⚙️ **Tecnologias e Ferramentas que uso**  
+## 🔧 Tools & Technologies
+
 ![Linux](https://img.shields.io/badge/Linux-%23007ACC.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com)  
+- 📧 your.email@example.com
+
 ---
 
-> 🧠 “A segurança não é um produto, é um processo.” – Bruce Schneier
+> 💬 "Security is a process, not a product." — Bruce Schneier
 
 
 <!--
